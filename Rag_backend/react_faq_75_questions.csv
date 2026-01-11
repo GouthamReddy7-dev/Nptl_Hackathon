@@ -1,0 +1,81 @@
+prompt,response
+What is React?,"React is a JavaScript library for building user interfaces, mainly for single-page applications."
+What are components in React?,Components are reusable building blocks in React that return UI elements.
+What is JSX?,JSX is a syntax extension for JavaScript that allows writing HTML-like code inside JavaScript.
+What is the virtual DOM?,The virtual DOM is a lightweight copy of the real DOM used by React to optimize updates.
+What are props in React?,Props are inputs passed to components to customize their behavior and appearance.
+What is state in React?,State is an object that stores data that can change over time in a component.
+What is the difference between state and props?,"Props are read-only and passed from parent components, while state is managed within the component."
+What is useState hook?,useState is a React hook that allows functional components to manage state.
+What is useEffect hook?,useEffect is a hook used to handle side effects like data fetching and subscriptions.
+What is conditional rendering?,Conditional rendering means displaying different UI elements based on conditions.
+What is React concept question 11?,This is a sample explanation for React concept question 11.
+What is React concept question 12?,This is a sample explanation for React concept question 12.
+What is React concept question 13?,This is a sample explanation for React concept question 13.
+What is React concept question 14?,This is a sample explanation for React concept question 14.
+What is React concept question 15?,This is a sample explanation for React concept question 15.
+What is React concept question 16?,This is a sample explanation for React concept question 16.
+What is React concept question 17?,This is a sample explanation for React concept question 17.
+What is React concept question 18?,This is a sample explanation for React concept question 18.
+What is React concept question 19?,This is a sample explanation for React concept question 19.
+What is React concept question 20?,This is a sample explanation for React concept question 20.
+What is React concept question 21?,This is a sample explanation for React concept question 21.
+What is React concept question 22?,This is a sample explanation for React concept question 22.
+What is React concept question 23?,This is a sample explanation for React concept question 23.
+What is React concept question 24?,This is a sample explanation for React concept question 24.
+What is React concept question 25?,This is a sample explanation for React concept question 25.
+What is React concept question 26?,This is a sample explanation for React concept question 26.
+What is React concept question 27?,This is a sample explanation for React concept question 27.
+What is React concept question 28?,This is a sample explanation for React concept question 28.
+What is React concept question 29?,This is a sample explanation for React concept question 29.
+What is React concept question 30?,This is a sample explanation for React concept question 30.
+What is React concept question 31?,This is a sample explanation for React concept question 31.
+What is React concept question 32?,This is a sample explanation for React concept question 32.
+What is React concept question 33?,This is a sample explanation for React concept question 33.
+What is React concept question 34?,This is a sample explanation for React concept question 34.
+What is React concept question 35?,This is a sample explanation for React concept question 35.
+What is React concept question 36?,This is a sample explanation for React concept question 36.
+What is React concept question 37?,This is a sample explanation for React concept question 37.
+What is React concept question 38?,This is a sample explanation for React concept question 38.
+What is React concept question 39?,This is a sample explanation for React concept question 39.
+What is React concept question 40?,This is a sample explanation for React concept question 40.
+What is React concept question 41?,This is a sample explanation for React concept question 41.
+What is React concept question 42?,This is a sample explanation for React concept question 42.
+What is React concept question 43?,This is a sample explanation for React concept question 43.
+What is React concept question 44?,This is a sample explanation for React concept question 44.
+What is React concept question 45?,This is a sample explanation for React concept question 45.
+What is React concept question 46?,This is a sample explanation for React concept question 46.
+What is React concept question 47?,This is a sample explanation for React concept question 47.
+What is React concept question 48?,This is a sample explanation for React concept question 48.
+What is React concept question 49?,This is a sample explanation for React concept question 49.
+What is React concept question 50?,This is a sample explanation for React concept question 50.
+What is React concept question 51?,This is a sample explanation for React concept question 51.
+What is React concept question 52?,This is a sample explanation for React concept question 52.
+What is React concept question 53?,This is a sample explanation for React concept question 53.
+What is React concept question 54?,This is a sample explanation for React concept question 54.
+What is React concept question 55?,This is a sample explanation for React concept question 55.
+What is React concept question 56?,This is a sample explanation for React concept question 56.
+What is React concept question 57?,This is a sample explanation for React concept question 57.
+What is React concept question 58?,This is a sample explanation for React concept question 58.
+What is React concept question 59?,This is a sample explanation for React concept question 59.
+What is React concept question 60?,This is a sample explanation for React concept question 60.
+What is React concept question 61?,This is a sample explanation for React concept question 61.
+What is React concept question 62?,This is a sample explanation for React concept question 62.
+What is React concept question 63?,This is a sample explanation for React concept question 63.
+What is React concept question 64?,This is a sample explanation for React concept question 64.
+What is React concept question 65?,This is a sample explanation for React concept question 65.
+What is React concept question 66?,This is a sample explanation for React concept question 66.
+What is React concept question 67?,This is a sample explanation for React concept question 67.
+What is React concept question 68?,This is a sample explanation for React concept question 68.
+What is React concept question 69?,This is a sample explanation for React concept question 69.
+What is React concept question 70?,This is a sample explanation for React concept question 70.
+What is React concept question 71?,This is a sample explanation for React concept question 71.
+What is React concept question 72?,This is a sample explanation for React concept question 72.
+What is React concept question 73?,This is a sample explanation for React concept question 73.
+What is React concept question 74?,This is a sample explanation for React concept question 74.
+What is React concept question 75?,This is a sample explanation for React concept question 75.
+What is React concept question 76?,This is a sample explanation for React concept question 76.
+What is React concept question 77?,This is a sample explanation for React concept question 77.
+What is React concept question 78?,This is a sample explanation for React concept question 78.
+What is React concept question 79?,This is a sample explanation for React concept question 79.
+What is React concept question 80?,This is a sample explanation for React concept question 80.
