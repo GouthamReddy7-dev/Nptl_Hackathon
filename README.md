@@ -221,9 +221,9 @@ Collection: questions
 
 ## 🧑‍💻 Author
 
-M.Goutham Reddy - Backend & AI (RAG, LLM Integration)
-Aryan Padhye - Frontend (React)
-Tejveer Singh Rajput - Frontend (React)
+M.Goutham Reddy - Backend & AI (RAG, LLM Integration), 
+Aryan Padhye - Frontend (React), 
+Tejveer Singh Rajput - Frontend (React), 
 Shalu Tiwari - Ui Design  
 
 ---
