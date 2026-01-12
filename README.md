@@ -221,7 +221,10 @@ Collection: questions
 
 ## 🧑‍💻 Author
 
-Built as a **Smart Classroom AI Assistant** using RAG principles.
+M.Goutham Reddy - Backend & AI (RAG, LLM Integration)
+Aryan Padhye - Frontend (React)
+Tejveer Singh Rajput - Frontend (React)
+Shalu Tiwari - Ui Design  
 
 ---
 
