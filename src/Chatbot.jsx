@@ -26,7 +26,7 @@ export default function Chatbot() {
 
     try {
       const res = await axios.post(
-        "http://192.168.29.204:5000/Senddata",
+        "http://localhost:5000/Senddata",
         { datas: input }
       );
 
@@ -89,4 +89,5 @@ export default function Chatbot() {
       </div>
     </div>
   );
+
 }
